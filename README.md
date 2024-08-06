@@ -27,7 +27,7 @@ Mobile version:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/single-price-grid-component-7UYAf343KA)
 - Live Site URL: [PinelopiRomeou](https://pinelopi-romeou.netlify.app/)
 
 ## My process
